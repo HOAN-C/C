@@ -1,0 +1,8 @@
+C:\Users\User\Documents\��õ���б�\����\1-2\C���\�ʱ�\2018.11.15\2018.11.15.c: In function 'main':
+C:\Users\User\Documents\��õ���б�\����\1-2\C���\�ʱ�\2018.11.15\2018.11.15.c:13:18: error: expected identifier or '(' before '[' token
+   struct student [SIZE];
+                  ^
+C:\Users\User\Documents\��õ���б�\����\1-2\C���\�ʱ�\2018.11.15\2018.11.15.c:22:25: error: 's' undeclared (first use in this function)
+     fscanf(fp,"%s, %d", s[i].name, s[i].GPA);
+                         ^
+C:\Users\User\Documents\��õ���б�\����\1-2\C���\�ʱ�\2018.11.15\2018.11.15.c:22:25: note: each undeclared identifier is reported only once for each function it appears in
